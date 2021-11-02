@@ -58,3 +58,24 @@ body {
     padding-left: var(--bs-gutter-x, .75rem);
     font-weight: bold;
 }
+
+.text-shadow-black {
+    text-shadow: 2px 2px 1px black;
+}
+
+.text-shadow-white {
+    text-shadow: 2px 2px 1px whitesmoke;
+}
+
+.section-1 {
+    height: 70vh;
+    /*background-color: rgba(0, 0, 0, 1) !important;*/
+    background: url('../Images/ines-alvarez-fdez-_HHjiseEuGw-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.text-slight-black {
+    color: rgba(10, 10, 10, 1);
+}
