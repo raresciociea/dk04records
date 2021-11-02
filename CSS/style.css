@@ -91,3 +91,14 @@ body {
 .text-slight-black {
     color: rgba(10, 10, 10, 1);
 }
+
+.image-about {
+    width: 30vw;
+}
+
+@media only screen and (max-width: 600px) {}
+
+.panel-resizable {
+    resize: vertical;
+    overflow: auto
+}
