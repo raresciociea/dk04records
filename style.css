@@ -1,0 +1,32 @@
+body {
+    background: #4C4C4C !important;
+}
+
+
+/* Adding !important forces the browser to overwrite the default style applied by Bootstrap */
+
+
+/*.navbar {
+    font-family: "Old English Text MT", sans-serif !important; 
+
+}
+*/
+
+#logo {
+    font-size: 23px !important;
+}
+
+.Head {
+    height: 100vh;
+    /* background-color: rgba(30, 30, 30, 0.1) !important;*/
+    background: url('dk040404.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    /*margin-top: 10vh;
+    margin-bottom: 10vh;*/
+}
+
+.big {
+    font-size: 10vh;
+}
