@@ -80,11 +80,6 @@ body {
     background-position: center center;
 }
 
-footer {
-    position: relative;
-    height: 15vh !important;
-}
-
 .footer-content {
     position: absolute;
     width: 100%;
