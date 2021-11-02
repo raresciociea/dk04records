@@ -67,13 +67,30 @@ body {
     text-shadow: 2px 2px 1px whitesmoke;
 }
 
+.text-shadow-slight-black {
+    text-shadow: 2px 2px 1px rgba(150, 150, 150, 0.6);
+}
+
 .section-1 {
-    height: 70vh;
+    height: 85vh;
     /*background-color: rgba(0, 0, 0, 1) !important;*/
     background: url('../Images/ines-alvarez-fdez-_HHjiseEuGw-unsplash.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
+}
+
+footer {
+    position: relative;
+    height: 15vh !important;
+}
+
+.footer-content {
+    position: absolute;
+    width: 100%;
+    bottom: 7.5vh;
+    left: 0;
+    text-align: center;
 }
 
 .text-slight-black {
