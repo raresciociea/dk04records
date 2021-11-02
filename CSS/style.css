@@ -27,6 +27,27 @@ body {
     margin-bottom: 10vh;*/
 }
 
+.profile {
+    width: 100vw;
+    padding: 10px;
+    background-color: rgba(10, 10, 10, 0.5);
+}
+
+.info-profile {
+    padding-left: 10px;
+    width: 600px !important;
+}
+
+.button-profile {
+    padding: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
 .big {
     font-size: 10vh;
+}
+
+.profile-container {
+    margin-top: 1rem !important;
 }
