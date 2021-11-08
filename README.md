@@ -1,2 +1,3 @@
 # dk04records
-sitehehe
+Site oficial DK 
+Da folosesc bootstrap :(
