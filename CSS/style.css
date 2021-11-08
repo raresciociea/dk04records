@@ -19,7 +19,7 @@ body {
 .Head {
     height: 100vh;
     /* background-color: rgba(30, 30, 30, 0.1) !important;*/
-    background: url('../Images/dk040404.png');
+    background: url('../Images/dk040404.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -78,7 +78,7 @@ body {
 .section-1 {
     height: 100vh !important;
     /*background-color: rgba(0, 0, 0, 1) !important;*/
-    background: url('../Images/ines-alvarez-fdez-_HHjiseEuGw-unsplash.jpg');
+    background: url('../Images/ines-alvarez-fdez-_HHjiseEuGw-unsplash_2.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -87,7 +87,7 @@ body {
 .section-2 {
     height: 85vh;
     /*background-color: rgba(0, 0, 0, 1) !important;*/
-    background: url('../Images/jason-dent-itA0ybdIDTs-unsplash.jpg');
+    background: url('../Images/jason-dent-itA0ybdIDTs-unsplash_2.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
