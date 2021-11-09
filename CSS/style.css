@@ -114,6 +114,18 @@ a.text-black.broken {
     text-align: center;
 }
 
+#content {
+    position: relative;
+    min-height: 100vh;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Footer height */
+}
+
 .text-slight-black {
     color: rgba(10, 10, 10, 1);
 }
