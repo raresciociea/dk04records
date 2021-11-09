@@ -93,6 +93,10 @@ body {
     background-position: center center;
 }
 
+a.text-black.broken {
+    cursor: default;
+}
+
 .section-about {
     height: 85vh;
     /*background-color: rgba(0, 0, 0, 1) !important;*/
